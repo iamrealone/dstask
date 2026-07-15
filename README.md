@@ -1,7 +1,7 @@
 # Trader Performance vs. Bitcoin Market Sentiment
 
 Analysis of Hyperliquid historical trade data against the Bitcoin Fear & Greed Index, exploring how trader behavior and profitability shift across market sentiment regimes.
-
+The datasets are huge to be uploaded here. So I skipped the upload of the datasets. But the process to follow for successfully executing this project is clearly stated below:
 ## Contents
 
 | File | Description |
